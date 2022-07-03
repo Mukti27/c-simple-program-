@@ -1,0 +1,12 @@
+// Create your account on github and save simple C++ program in github.
+
+#include <iostream>
+
+int main() {
+
+    std::cout << "Hello World!";
+
+    return 0;
+
+}
+
